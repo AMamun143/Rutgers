@@ -1,0 +1,33 @@
+ Make a repo
+
+push an index.html file to it
+
+put an h1 of your favorite band
+
+put an image of your favorite band
+
+push it to github
+
+push to heroku
+
+git checkout -b another-band * is short for making a new branch and immediately switching to it
+
+git branch * tells you all the branches you have locally and the one that you are currently on
+
+modify the h1 to be the new band name
+
+add a picture of that new band in the html file
+
+git push origin another-band
+
+make a pull request to master with the branch you made
+
+github will say can not merge due to merge conflicts
+
+go to terminal and do git pull origin master
+
+get out of vim
+
+git push origin another-band
+
+then go back to github.com to see the pull request - now you can merge it in - go ahead merge it 

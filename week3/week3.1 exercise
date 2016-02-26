@@ -1,0 +1,7 @@
+ask the user if they eat steak
+
+if they do then write the following to the screen: "Here's a steak sandwich!"
+
+if they don't then write the following to the screen: "Here's a tofu stir fry!"
+
+BONUS: additionally ask the user what their birth year is. If it's greater than 1987, alert to the screen that "you're older than Pavan". If it's smaller than 1987, then alert to the screen that "you're younger than Pavan". If it's equal to 1987, then alert "you're around the same age as Pavan" to the screen.
